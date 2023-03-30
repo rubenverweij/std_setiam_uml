@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T15:21:45.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="43yVmnXI4EQPNjA8S8ys" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T15:38:40.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EKwO6rx00mURz76jy7FW" version="21.1.2" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="6840" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8171" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,14 +606,6 @@
             <mxRectangle x="-1790" y="230" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eO4IeB49cztOzRW8cTQI-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eO4IeB49cztOzRW8cTQI-221" target="eO4IeB49cztOzRW8cTQI-219">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-3320" y="705" />
-              <mxPoint x="-4130" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eO4IeB49cztOzRW8cTQI-221" value="Sum loads MV &lt;br&gt;feeder per station" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;enumerate=0;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-3320" y="650" width="160" height="60" as="geometry">
             <mxRectangle x="-1790" y="230" width="180" height="30" as="alternateBounds" />
@@ -628,6 +620,20 @@
           <mxGeometry x="-4080" y="830" width="160" height="60" as="geometry">
             <mxRectangle x="-1790" y="230" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eO4IeB49cztOzRW8cTQI-231" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-3850" y="740" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eO4IeB49cztOzRW8cTQI-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eO4IeB49cztOzRW8cTQI-232" target="PACxMlugmtT-tu7Vrz_O-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2070" y="438" />
+              <mxPoint x="-2070" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eO4IeB49cztOzRW8cTQI-232" value="KNMI" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="437.5" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
